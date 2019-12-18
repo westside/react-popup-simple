@@ -25,6 +25,7 @@ const Container = styled.div`
     height: auto;
     max-width: 80%;
     background: #fff;
+    max-height: 90%;
     overflow-y: auto;
     border-radius: 5px;
     transition: all 1s ease-in-out;
